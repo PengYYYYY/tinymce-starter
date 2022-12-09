@@ -9,7 +9,7 @@
   "dependencies": {
     "@tinymce/tinymce-vue": "^4.0.6",
     "tdesign-vue-next": "^0.9.2",
-    "tinymce": "^5.10.3",
+    "tinymce": "^5.10.7",
     "vue": "^3.2.16"
   },
   "devDependencies": {
